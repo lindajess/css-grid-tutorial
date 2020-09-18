@@ -1,0 +1,14 @@
+.grid-container {
+	display: grid;
+	grid-template-columns: 100px 100px 100px;
+	grid-template-rows: 100px 100px 100px;
+	gap: 10px 10px;
+}
+
+.element-1 {
+	background-color: lightblue;
+}
+
+.element-2 {
+	background-color: lightblue;
+}

@@ -1,0 +1,5 @@
+Presentation: https://docs.google.com/presentation/d/1_lwC6CJiiBWORQxV20OGyd_pvy8covGrLvAKlAgePeo/edit?usp=sharing
+
+References: 
+1. playground: https://medium.com/@purplecones/playing-with-css-grid-layout-a75836098370 - https://www.cssgridplayground.com/
+2. css tricks: https://css-tricks.com/snippets/css/complete-guide-grid/

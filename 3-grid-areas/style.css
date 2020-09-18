@@ -1,0 +1,35 @@
+.grid-container {
+	display: grid;
+	height: 100vh;
+	grid-template-areas:
+		'left header header header header'
+		'left main main main right'
+		'left main main main right'
+		'left footer footer footer footer';
+	gap: 10px 10px;
+}
+
+.element-1 {
+	background-color: lightblue;
+	grid-area: left;
+}
+
+.element-2 {
+	background-color: lightcoral;
+	grid-area: header;
+}
+
+.element-3 {
+	background-color: lightgray;
+	grid-area: main;
+}
+
+.element-4 {
+	background-color: lightskyblue;
+	grid-area: right;
+}
+
+.element-5 {
+	background-color: lightyellow;
+	grid-area: footer;
+}

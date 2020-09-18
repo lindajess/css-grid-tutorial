@@ -1,0 +1,30 @@
+.grid-container {
+	display: grid;
+	height: 100vh;
+	grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+	gap: 10px;
+}
+
+.element-1 {
+	background-color: lightblue;
+}
+
+.element-2 {
+	background-color: lightblue;
+}
+
+.element-3 {
+	background-color: lightblue;
+}
+
+.element-4 {
+	background-color: lightblue;
+}
+
+.element-5 {
+	background-color: lightblue;
+}
+
+.element-6 {
+	background-color: lightblue;
+}
